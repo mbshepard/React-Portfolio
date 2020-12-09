@@ -1,4 +1,5 @@
 {
+  "homepage": "https://mbshepard.github.io/React-Portfolio/",
   "name": "portfolio",
   "version": "0.1.0",
   "homepage": "https://mbshepard.github.io/React-Portfolio/",
@@ -9,7 +10,6 @@
     "@testing-library/user-event": "^12.5.0",
     "bootstrap": "^4.5.3",
     "emailjs": "^3.4.0",
-    "gh-pages": "^3.1.0",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.0",
     "react-dom": "^17.0.1",
@@ -44,5 +44,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
