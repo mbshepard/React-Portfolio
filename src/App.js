@@ -11,7 +11,7 @@ function App() {
     <div className="App">
     <Router>
       <div>
-        <Route exact path="/" component={Welcome}></Route>
+        <Route exact path="/React-Portfolio" component={Welcome}></Route>
         <Route path ="/portfolio" component={Portfolio}></Route>
         <Route path ="/contact" component={Contact}></Route>
       </div>
